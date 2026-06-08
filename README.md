@@ -39,3 +39,5 @@ Bu proje, modern bir arayüze ve çeşitli gelişmiş özelliklere sahip bir And
 ## 📄 Lisans
 
 Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
+
+https://play.google.com/store/apps/details?id=com.era.hesapmakinesi&hl=tr

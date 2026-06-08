@@ -30,7 +30,7 @@ Bu proje, modern bir arayüze ve çeşitli gelişmiş özelliklere sahip bir And
 
 1. Bu depoyu klonlayın:
    ```bash
-   git clone https://github.com/kullaniciadi/HesapMakinesi.git
+   git clone https://github.com/mukhammadidrisov-mh/hesapmakinesi.git
    ```
 2. Android Studio ile projeyi açın.
 3. Gerekli bağımlılıkların yüklenmesi için Gradle senkronizasyonunu bekleyin.

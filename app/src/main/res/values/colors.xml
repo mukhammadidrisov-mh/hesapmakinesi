@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="backgroundColore">#F7F8FA</color>"
+    <color name="nightModeBackgroundColor">#121212</color>
+    <color name="dayModeBackgroundColor">#F7F8FA</color>
+   <color name="blue">#0095FF</color>
+<color name="green">#4CAF50</color>
+    <color name="mor">#9C27B0</color>
+
+    <color name="redColor">#FF0000</color>
+</resources>
